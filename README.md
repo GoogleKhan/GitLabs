@@ -25,3 +25,12 @@ $ git branch <branch_name>
 # How to check status of local git repo
 $ git status
 
+# How to add modified file to the local git repo
+$ git add .
+
+# How to commit changes permanently in to th local git repo
+$ git commit -m "Any message"
+
+# How to send committed changes to the remote git repo(GitHUB)
+$ git push
+
