@@ -1,0 +1,8 @@
+public class A
+{
+	void foo()
+	{
+		System.out.println("Created in main branch");
+	}
+	
+}
