@@ -1,6 +1,9 @@
 # GitLabs
 Its for Wipro GL August Batch
 
+# Its branch-2
+=======
+
 # For cloning a remote repository to the local:
 $ git clone <git_repo_url>
 
@@ -33,4 +36,5 @@ $ git commit -m "Any message"
 
 # How to send committed changes to the remote git repo(GitHUB)
 $ git push
+
 
